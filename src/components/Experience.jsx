@@ -1,5 +1,5 @@
-import {Environment, OrbitControls} from "@react-three/drei";
-import {Car} from "./Car.jsx";
+import {Environment, OrbitControls} from "@react-three/drei"
+import {Car} from "./Car.jsx"
 
 export const Experience = () => {
     return (

@@ -1,5 +1,5 @@
-import { Canvas } from "@react-three/fiber";
-import { Experience } from "./components/Experience";
+import { Canvas } from "@react-three/fiber"
+import { Experience } from "./components/Experience"
 
 function App() {
   return (

@@ -1,4 +1,4 @@
-# r3f-vite-starter
+# React three fiber starter pack
 Boilerplate to build R3F projects
 
 ```
